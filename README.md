@@ -55,7 +55,7 @@ My approach is practical: documented projects and real experience over certifica
 | **Home Network Monitoring** | Pi-hole for DNS filtering and network-level threat awareness | Planned |
 | **Blue Team Documentation** | Open-source documentation of security concepts and detection techniques | Ongoing |
 
-Browse all projects → [View Repositories](https://github.com/filipefernandes1?tab=repositories)
+Browse all projects → [View Repositories](https://github.com/filipefern?tab=repositories)
 
 ---
 
