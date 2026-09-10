@@ -51,9 +51,7 @@ My approach is practical: documented projects and real experience over certifica
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **SSH Brute-Force Detection** | Building a SOC workflow to detect, investigate, and respond to SSH brute-force attacks using Wazuh SIEM | In Progress |
-| **Home Network Monitoring** | Pi-hole for DNS filtering and network-level threat awareness | Planned |
-| **Blue Team Documentation** | Open-source documentation of security concepts and detection techniques | Ongoing |
+| **Home Network Monitoring** | Pi-hole for DNS filtering and network-level threat awareness | In production |
 
 Browse all projects → [View Repositories](https://github.com/filipefern?tab=repositories)
 
